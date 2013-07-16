@@ -1,0 +1,1 @@
+alias www='cd /mnt/www'
