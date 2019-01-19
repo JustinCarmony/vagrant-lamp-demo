@@ -1,4 +1,4 @@
 vagrant-lamp-demo
 =================
 
-Slides for this presentation are at http://www.justincarmony.com/slides/vagrant-intro/
+Slides for this presentation are at https://justincarmony.github.io/slides/vagrant-intro/
